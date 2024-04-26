@@ -22,13 +22,13 @@ This is a simple Pacman game implemented in Java using AWT and Swing libraries. 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pacman-game.git
+    git clone https://github.com/anshthapliyal/Pacman.git
     ```
 
 2. Compile the Java files:
 
     ```bash
-    javac *.java
+    javac Pacman.java
     ```
 
 3. Run the game:
